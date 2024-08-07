@@ -1,1 +1,2 @@
 # tinny-url
+The TinyURL URL Shortener is a web application built using Python and Flask that allows users to shorten long URLs into more manageable, custom or randomly generated short links. This project demonstrates the use of data structures and algorithms to efficiently manage URL mappings and ensure uniqueness. It also showcases the integration of MongoDB for persistent storage and the use of Flask for building RESTful APIs.
